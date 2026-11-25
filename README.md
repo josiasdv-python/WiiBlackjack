@@ -2,8 +2,8 @@ What if Windows 3.1 or Windows 95 had a Blackjack game alongside their Solitaire
 
 WiiBlackjack.zip has the apps/wiiblackjack/boot.dol meant for real wii hardware.  The code includes a cursor graphic.
 WiiBlackjacksource.zip has the source and assets in order to build yourself.  The code includes a cursor graphic.
-wiiblackjackdolphindol.zip has a standalone .dol to run directly with Dolphin.  The code does not include a cursor graphic.
-WiiBlackjackDolphinsource.zip has the source and assets in order to build yourself.  The code does not include a cursor graphic.
+wiiblackjackdolphindol.zip has a standalone .dol to run directly with Dolphin.  The code does not include a cursor graphic.  
+WiiBlackjackDolphinsource.zip has the source and assets in order to build yourself.  The code does not include a cursor graphic.  
 
 The Dolphin version is useful with default Dolphin settings on Windows/Mac/or Android (double tap the screen to press A)
 On Windows or Mac make sure this is ticked: Settings/Interface/Mouse Cursor Visibility/Always to see the operating system mouse cursor.
