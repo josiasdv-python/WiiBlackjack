@@ -8,8 +8,8 @@ WiiBlackjackDolphinsource.zip has the source and assets in order to build yourse
 The Dolphin version is useful with default Dolphin settings on Windows/Mac/or Android (double tap the screen to press A)
 On Windows or Mac make sure this is ticked: Settings/Interface/Mouse Cursor Visibility/Always to see the operating system mouse cursor.
 
-Blackjack! made using:
-Python 3.13.2
+Blackjack! made using:  
+Python 3.13.2  
 Pygame 2.6.1
 Ported to Wii in October, 2026
 libogc 3.2.0
