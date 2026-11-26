@@ -13,7 +13,7 @@ Python 3.13.2
 Pygame 2.6.1  
 Ported to Wii in October, 2026  
 libogc 3.2.0  
-devkitpro Updater 3.0.3"  
+devkitpro Updater 3.0.3  
 GxConsole by "barfoo34"  
 Blackjack Font provided free by:  
 Typadelic Fonts Copyright ©2002  
