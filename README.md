@@ -6,7 +6,7 @@ WiiBlackjackDolphin.zip has a standalone .dol to run with Dolphin. (Does not inc
 WiiBlackjackDolphinSource.zip has the source and assets in order to build yourself. (Does not include a cursor graphic)  
 
 The Dolphin version is useful with default Dolphin settings on Windows/Mac/or Android.  
-(double tap the screen to press A)  
+(On Android double tap the screen to press A)  
 On Windows or Mac make sure this is ticked in Dolphin:  
 "Settings/Interface/Mouse Cursor Visibility/Always" to see the operating system mouse cursor.
 
